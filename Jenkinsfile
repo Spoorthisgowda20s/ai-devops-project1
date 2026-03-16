@@ -31,7 +31,7 @@ pipeline {
     }
 
     post {
-        success { echo '✅ All 3 environments running — DEV:8081 TEST:8082 PROD:8083' }
-        failure { echo '❌ Pipeline failed — check logs above' }
+        success { echo '✅ DEV:8081  TEST:8082  PROD:8083' }
+        failure { echo '❌ Failed' }
     }
 }
