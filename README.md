@@ -1,4 +1,4 @@
-# ⚡ NexaSales AI — Enterprise Sales Forecasting Platform
+# ⚡ NexaSales AI — Enterprise Sales Forecasting Platform#
 
 A full-stack DevOps + AI project with a company-grade marketing website, multi-environment deployment, and advanced analytics dashboard.
 
